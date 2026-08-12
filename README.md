@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alessandro Marcosano 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Salesforce+Backend+Developer+%40+Deloitte+NextHub;Full-stack+Developer:+Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Flutter;Building+AI-powered+products:+Daedalab+%26+Iteroo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Product-minded+Full-Stack+Engineer;Backend+ownership:+Java+%7C+Spring+Boot+%7C+REST+APIs;Frontend+delivery:+React+%7C+Next.js+%7C+TypeScript+%7C+Flutter;AI+features+in+production:+Spring+AI+%7C+Gemini+integration;Scalable+systems:+PostgreSQL+%7C+Redis+%7C+async+jobs+%7C+caching;Quality+first:+testing+%7C+JUnit+%7C+clean+architecture;Shipping+mindset:+Docker+%7C+Vercel+%7C+Fly.io+%7C+Firebase;Enterprise+integrations:+Salesforce+%7C+Apex+%7C+CRM+APIs;From+idea+to+release:+build,+measure,+iterate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Salesforce Backend Developer** with a strong full-stack background, currently working at **Deloitte NextHub** on enterprise CRM projects.
+I'm a **Software Developer** with a strong full-stack background, currently working at **Deloitte NextHub** on enterprise projects.
 
 Alongside my job, I build independent digital products focused on **AI + real-world utility**, combining product thinking with solid engineering.
 
@@ -76,15 +76,15 @@ Alongside my job, I build independent digital products focused on **AI + real-wo
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Engineering Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alemarcosa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemarcosa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alemarcosa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alemarcosa&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alemarcosa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alemarcosa&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alemarcosa&theme=tokyonight" />
 </p>
 
 ---
