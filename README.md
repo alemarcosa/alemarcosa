@@ -34,6 +34,7 @@ Alongside my job, I build independent digital products focused on **AI + real-wo
 |---|---|---|
 | [**Daedalab**](https://github.com/alemarcosa/daedalab) | Control and security layer for AI agents: intercepts, filters, and monitors tool calls in real time. | Next.js, React, TypeScript, Monorepo, Vercel, Fly.io |
 | [**Iteroo**](https://github.com/alemarcosa/iteroo) | AI travel planner that generates personalized itineraries from a short questionnaire. | Flutter Web, Spring Boot, Spring AI, Gemini, Firebase, Render |
+| [**OpenF1**](https://github.com/alemarcosa/openf1) | Formula 1 companion app that shows live drivers, race calendar and session data via the OpenF1 API. | Angular, Ionic, OpenF1, Capacitor, Typescript |
 | [**PersonalFinance**](https://github.com/alemarcosa/PersonalFinance) | Personal finance and savings planning app with interactive analytics. | React, Vite, Tailwind CSS, Recharts |
 
 ---
@@ -65,6 +66,7 @@ Alongside my job, I build independent digital products focused on **AI + real-wo
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Cloud & Tools**  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
